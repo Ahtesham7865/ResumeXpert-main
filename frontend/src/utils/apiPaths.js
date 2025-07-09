@@ -1,5 +1,5 @@
-//export const BASE_URL = "https://resumexpert-backend-b41y.onrender.com";
-export const BASE_URL = "https://resumexpert-main-backend-5inh.onrender.com/";
+
+export const BASE_URL = "https://resumexpert-main.onrender.com/";
 
 
 //utils/apiPath.js
