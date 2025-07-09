@@ -310,15 +310,20 @@ const LandingPage = () => {
 
       {/* Footer */}
       <footer className={landingPageStyles.footer}>
-        <div className={landingPageStyles.footerContainer}>
-          <p className={landingPageStyles.footerText}>
-            Crafted  <span className={landingPageStyles.footerHeart}></span> by{' '}
-            <a href="https://portfolio-4vlx.vercel.app/" target="_blank" className={landingPageStyles.footerLink}>
-            Ahtesham Khan
-            </a>
-          </p>
-        </div>
-      </footer>
+  <div className={landingPageStyles.footerContainer}>
+    <p className={landingPageStyles.footerText}>
+      Crafted by{"Ahtesham khan"}
+      <a
+        href=""
+        target=""
+        rel=""
+        className={landingPageStyles.footerLink}
+      >
+        Ahtesham Khan
+      </a>
+    </p>
+  </div>
+</footer>
 
       {/* Modal */}
       <Modal
