@@ -319,7 +319,7 @@ const LandingPage = () => {
         rel=""
         className={landingPageStyles.footerLink}
       >
-        Ahtesham Khan
+        
       </a>
     </p>
   </div>
